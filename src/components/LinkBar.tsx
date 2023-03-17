@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../assets/Resume.pdf";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import EmailIcon from "@mui/icons-material/Email";
@@ -17,7 +18,7 @@ const LinkBar = () => {
       <a href="mailto:d26ly@uwaterloo.ca">
         <EmailIcon fontSize="large" sx={{ color: grey[800] }} />
       </a>
-      <a href="https://github.com/davidly1" target="_blank">
+      <a href={Resume} target="_blank">
         <InsertDriveFileIcon fontSize="large" sx={{ color: grey[800] }} />
       </a>
     </div>
