@@ -28,7 +28,7 @@ const App = () => {
           </a>
         </div>
         <div className="w-fit pb-1 font-medium text-center text-4xl bg-green-100 text-gray-800">
-          currently looking for a fall 2023 internship
+          currently seeking for a 4 month fall 2023 internship
         </div>
         <LinkBar />
       </div>
