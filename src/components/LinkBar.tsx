@@ -30,7 +30,7 @@ const LinkBar = () => {
           sx={{ "&:hover": { color: "primary.main" } }}
         />
       </a>
-      <a href={Resume} title="Resume" target="_blank">
+      <a href={Resume} title="Resume" target="_blank" type="application/pdf">
         <InsertDriveFileIcon
           fontSize="large"
           sx={{ "&:hover": { color: "primary.main" } }}
