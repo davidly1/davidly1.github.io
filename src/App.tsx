@@ -8,7 +8,7 @@ const App = () => {
       </div>
       <div className="flex flex-col items-center">
         <div className="font-medium text-4xl text-center pb-4 text-gray-200">
-          2nd year{" "}
+          3rd year{" "}
           <a
             href="https://uwaterloo.ca/management-sciences/management-engineering/"
             target="_blank"
@@ -28,7 +28,7 @@ const App = () => {
           </a>
         </div>
         <div className="w-fit pb-1 font-medium text-center text-4xl bg-green-100 text-gray-800">
-          currently seeking for a 4 month fall 2023 internship
+          currently seeking for a 4 month summer 2024 internship
         </div>
         <LinkBar />
       </div>
